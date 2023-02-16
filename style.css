@@ -1,0 +1,44 @@
+/* global prop */
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+/* start header */
+header{
+    padding: 10px;
+    background-color: #1f3e5b;
+}
+
+header h1{
+    text-align: center;
+    color: #f0f0f0;
+    font-size: 3rem;
+}
+/* end header */
+
+/* start images section */
+img{
+    width: 100%;
+    height: 180px;
+    cursor: pointer;
+}
+/* end images section */
+
+/* start footer section */
+footer{
+    padding: 5px;
+    background-color: #1f3e5b;
+}
+
+footer p{
+    text-align: center;
+    color: #f0f0f0;
+}
+/* end footer section */
